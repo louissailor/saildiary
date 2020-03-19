@@ -1,0 +1,66 @@
+body {
+    background-color: lightcyan;
+    background-image: url(..\images\0101.jpg);
+  }
+  html{
+  
+  background: radial-gradient(circle , SkyBlue , SkyBlue 50% , LightCyan 50% , SkyBlue);
+    background-size: 8px;
+  
+  }
+  p {
+    color: black;
+  }
+  h1 {
+    font-weight: bold;
+  }
+  .menu ul {
+    background-color:mediumaquamarine;
+      
+  }
+  .menu {
+  margin: 0px;
+    border: 0px
+  }
+  
+  .localist h1 {
+  color: chartr euse;
+  }
+  .localist .black{
+    color: #111111;
+    
+  }
+  section {
+    background-color: lightcyan;
+    
+  }
+  nav ul {
+  list-style-type: none;
+  background-color: #B577BB;
+  border: 2px solid black;
+  border-radius: 10px;
+  font-family: sans-serif;
+  font-weight: bold;
+  padding: 16px;
+  
+  
+  
+  }
+  nav ul li .selected {
+  color: #606060;
+  }
+  nav ul li a {
+  text-decoration: none;
+    color: #fff;
+  
+  }
+  nav ul li {
+  display: inline;
+    border-right: 2px solid #111111;
+    padding-right: 8px;
+    padding-left: 8px;
+    
+  
+  
+  
+  }
